@@ -69,10 +69,6 @@ public class HomeControllerPortlet extends MVCPortlet {
 	}
 	
 	
-	
-	
-	
-	
 	public void addCourses(ActionRequest actionRequest, ActionResponse actionResponse)
 			throws IOException, PortletException {
 
@@ -101,8 +97,5 @@ public class HomeControllerPortlet extends MVCPortlet {
 		}
 	 actionResponse.sendRedirect(PortalUtil.getCurrentURL(actionRequest));
 	}
-	
-	
-
 	
 }
