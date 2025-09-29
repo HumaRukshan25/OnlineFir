@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/resources/META-INF/resources/admin_error.jsp=UTF-8
+encoding//src/main/resources/META-INF/resources/admin_success.jsp=UTF-8
+encoding//src/main/resources/META-INF/resources/citizen_dashboard.jsp=UTF-8
+encoding//src/main/resources/META-INF/resources/edit_user.jsp=UTF-8
+encoding//src/main/resources/META-INF/resources/manage_users.jsp=UTF-8
+encoding//src/main/resources/META-INF/resources/police_dashboard.jsp=UTF-8
+encoding//src/main/resources/META-INF/resources/success.jsp=UTF-8
+encoding//src/main/resources/META-INF/resources/verifyOTP.jsp=UTF-8
+encoding//src/main/resources/META-INF/resources/view.jsp=UTF-8
